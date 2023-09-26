@@ -20,10 +20,9 @@
   - バックエンド: Prisma
 
 ### 舞台照明
-舞台照明を所属団体では担当。<br>
-現在はライブ照明のお手伝いをすることも。
+舞台照明を所属団体では担当しています。
 
-## Belongs
+## 所属
 - 🏫[東京電機大学理工学部演劇部「演劇集団【でんげき】」](https://dengeki-fox.net/)
   - 2022年4月～
   - 副部長 (2022年後期~)
@@ -32,12 +31,11 @@
   - 演出部
   - 舞台制作部 (2022年後期~)
 
-## Works
-- [https://dengeki-fox.net](https://dengeki-fox.net)の開発
-  - 所属団体である演劇集団【でんげき】のサイト。
+## WORKS
+- [演劇集団【でんげき】](https://dengeki-fox)
+  - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
 
-## SNS / Contact
-
+## SNS
 - Twitter
   - 本アカウント: [@Beleth_XxX_F0X](https://twitter.com/Beleth_XxX_F0X)
   - 演劇集団【でんげき】: [@TDUdramaclub](https://twitter.com/TDUdramaclub)
