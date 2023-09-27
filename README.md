@@ -14,7 +14,7 @@
 所属グループのWebサイトを制作。  
 
 - 言語
-  - TypeScript / JavaScript
+  - TypeScript
 - ライブラリ
   - フロントエンド: Next.js(React), HTML, CSS
   - バックエンド: Prisma
