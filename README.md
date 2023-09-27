@@ -14,10 +14,7 @@
 所属グループのWebサイトを制作。  
 
 - 言語
-  - TypeScript
-- ライブラリ
-  - フロントエンド: Next.js(React), HTML, CSS
-  - バックエンド: Prisma
+  - Typescript/Javascriptなど
 
 ### 舞台照明
 舞台照明を所属団体では担当しています。
