@@ -32,6 +32,7 @@
 ## WORKS
 - [演劇集団【でんげき】](https://dengeki-fox)
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
+  - 部内Discordにおけるbotの開発
 
 ## SNS
 - Twitter
