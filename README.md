@@ -1,7 +1,5 @@
 # きむしゅん / Beleth
 
-[![Twitter](https://img.shields.io/badge/TWITTER-@Beleth__XxX__F0X-1DA.svg?logo=twitter&style=for-the-badge&color=4800ff)](https://twitter.com/Beleth_XxX_F0X)
-
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <picture>
