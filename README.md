@@ -19,7 +19,7 @@
 
 ## 主にやっている事
 
-### Next.jsを用いたweb開発
+### 💻Next.jsを用いたweb開発
 - Next.jsを用いた所属団体のwebサイトの開発を行っています。
 
 ## 所属
@@ -33,7 +33,7 @@
   - 舞台制作部 (2022年後期~)
   - IT班長 (2023年~)
 
-## WORKS
+## 🧰WORKS
 - [演劇集団【でんげき】](https://dengeki-fox)
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
