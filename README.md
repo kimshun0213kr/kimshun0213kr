@@ -5,6 +5,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimshun0213kr&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimshun0213kr&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimshun0213kr&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimshun0213kr&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
@@ -17,14 +19,8 @@
 
 ## 主にやっている事
 
-### Webサイト開発
-所属グループのWebサイトを制作。  
-
-- 言語
-  - Next.jsをよく使用しています。
-
-### 舞台照明
-舞台照明を所属団体では担当しています。
+### NEXT.JSを用いたweb開発
+- NEXT.JSを用いた所属団体のwebサイトの開発を行っています。
 
 ## 所属
 - 🏫[東京電機大学理工学部演劇部「演劇集団【でんげき】」](https://dengeki-fox.net/)
