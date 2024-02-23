@@ -34,6 +34,6 @@
   - IT班長 (2023年~)
 
 ## 🧰WORKS
-- [演劇集団【でんげき】](@DENGEKI-TDU)
+- [演劇集団【でんげき】](https://github.com/DENGEKI-TDU)
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
