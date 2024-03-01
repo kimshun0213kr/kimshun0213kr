@@ -37,3 +37,4 @@
 - [演劇集団【でんげき】](https://github.com/DENGEKI-TDU)
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
+  - 部内会計システムの作成
