@@ -1,4 +1,4 @@
-# きむしゅん / Beleth
+# きむしゅん
 
 <div align="center">
 
