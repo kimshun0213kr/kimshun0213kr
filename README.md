@@ -23,17 +23,18 @@
 
 ### Next.jsを用いたweb開発
 - Next.jsを用いた所属団体のwebサイトの開発を行っています。
+- その他、様々なシステムの開発・保守・運営を行っています。
 
 ## 🏫所属
 - [東京電機大学理工学部演劇部「演劇集団【でんげき】」](https://dengeki-fox.net/)
-  - 2022年4月～
-  - 部長 (2023年11月~)
+  - 2022年4月～2024年11月
+  - 部長 (2023年11月~2024年11月)
   - 副部長 (2022年11月~2023年11月)
-  - 照明チーム リーダー (2022年後期~)
-  - 脚本部 (2022年後期~)
-  - 演出部 (2022年後期~)
-  - 舞台制作部 (2022年後期~)
-  - システム管理局長 (2023年後期~)
+  - 照明チーム リーダー (2022年後期~2024年11月)
+  - 脚本部 (2022年後期~2024年11月)
+  - 演出部 (2022年後期~2024年11月)
+  - 舞台制作部 (2022年後期~2024年11月)
+  - システム管理局長 (2023年後期~2024年11月)
 
 ## 🧰WORKS
 - [演劇集団【でんげき】](https://github.com/DENGEKI-TDU)
@@ -41,4 +42,4 @@
   - 部内Discordにおけるbotの開発
   - 部内会計システムの作成
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,express,vercel" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,express,vercel,c,cs,cpp,vue,java" />
