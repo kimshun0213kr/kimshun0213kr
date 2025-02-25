@@ -8,8 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimshun0213kr&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimshun0213kr&theme=radical&utcOffset=9)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimshun0213kr&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cs,cpp,java,python,html,css,js,ts,react,next,express,vue,nuxt,vercel,supabase,postgresql,github,unity,linux,ubuntu" />
 </div>
 
 
@@ -41,5 +40,3 @@
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
   - 部内会計システムの作成
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cs,cpp,java,python,html,css,js,ts,react,next,express,vue,nuxt,vercel,supabase,postgresql,github,unity,linux,ubuntu" />
