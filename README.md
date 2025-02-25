@@ -40,3 +40,5 @@
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
   - 部内会計システムの作成
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,express,vercel" />
