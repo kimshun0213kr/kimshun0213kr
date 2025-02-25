@@ -42,4 +42,4 @@
   - 部内Discordにおけるbotの開発
   - 部内会計システムの作成
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,express,vercel,c,cs,cpp,vue,java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cs,cpp,java,python,html,css,js,ts,react,next,express,vue,nuxt,vercel,supabase,postgresql,github,unity,linux,ubuntu" />
