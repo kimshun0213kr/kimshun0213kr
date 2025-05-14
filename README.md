@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimshun0213kr&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimshun0213kr&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimshun0213kr&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimshun0213kr&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimshun0213kr&theme=radical&utcOffset=9)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimshun0213kr&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
