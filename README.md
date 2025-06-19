@@ -44,6 +44,8 @@
   - [https://dengeki-fox.net](https://dengeki-fox.net)の開発
   - 部内Discordにおけるbotの開発
   - 部内会計システムの作成
+  - 部内ポータルサイトの作成
+  - SSOシステムの作成
 - 劇団カラクリ
   - 物販関連システムの開発
   - 照明関連無線通信機材の開発
